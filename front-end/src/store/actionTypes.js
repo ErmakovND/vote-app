@@ -1,0 +1,31 @@
+export const SIGN_IN_REQUEST = 'SIGN_IN_REQUEST';
+export const SIGN_IN_SUCCESS = 'SIGN_IN_SUCCESS';
+export const SIGN_IN_FAILURE = 'SIGN_IN_FAILURE';
+
+export const SIGN_UP_REQUEST = 'SIGN_UP_REQUEST';
+export const SIGN_UP_SUCCESS = 'SIGN_UP_SUCCESS';
+export const SIGN_UP_FAILURE = 'SIGN_UP_FAILURE';
+
+export const SIGN_OUT_REQUEST = 'SIGN_OUT_REQUEST';
+export const SIGN_OUT_SUCCESS = 'SIGN_OUT_SUCCESS';
+export const SIGN_OUT_FAILURE = 'SIGN_OUT_FAILURE';
+
+export const LOAD_ALL_REQUEST = 'LOAD_ALL_REQUEST';
+export const LOAD_ALL_SUCCESS = 'LOAD_ALL_SUCCESS';
+export const LOAD_ALL_FAILURE = 'LOAD_ALL_FAILURE';
+
+export const LOAD_OWN_REQUEST = 'LOAD_OWN_REQUEST';
+export const LOAD_OWN_SUCCESS = 'LOAD_OWN_SUCCESS';
+export const LOAD_OWN_FAILURE = 'LOAD_OWN_FAILURE';
+
+export const VOTE_REQUEST = 'VOTE_REQUEST';
+export const VOTE_SUCCESS = 'VOTE_SUCCESS';
+export const VOTE_FAILURE = 'VOTE_FAILURE';
+
+export const ADD_POLL_REQUEST = 'ADD_POLL_REQUEST';
+export const ADD_POLL_SUCCESS = 'ADD_POLL_SUCCESS';
+export const ADD_POLL_FAILURE = 'ADD_POLL_FAILURE';
+
+export const SET_CHOICE = 'SET_CHOICE';
+export const SET_ERROR = 'SET_ERROR';
+export const ADD_POLL = 'ADD_POLL';
